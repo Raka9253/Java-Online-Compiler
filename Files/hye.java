@@ -1,0 +1,1 @@
+public class hye{  public hye(){  }  public static void main(String... args){System.out.println("hello from ajax");  }}

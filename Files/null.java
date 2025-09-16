@@ -1,0 +1,1 @@
+public class joly{  public joly(){  }  public static void main(String... args){System.out.println("hello from ajax");  }}
